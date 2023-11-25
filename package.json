@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariofacundodasilva/hello-world-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariofacundodasilva/hello-world-ts/issues"
+  },
+  "homepage": "https://github.com/dariofacundodasilva/hello-world-ts#readme"
+}
